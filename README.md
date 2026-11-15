@@ -1,4 +1,8 @@
+
 # Smart Temperature Controlled Fan
+
+## 🎥 Demo Video
+Project ko kaam karte hue dekho: https://lnkd.in/p/gMjSr
 
 Temperature ke hisab se apne aap ON/OFF hone wala smart fan.
 
